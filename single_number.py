@@ -7,4 +7,4 @@ class Solution:
         
         for i in hash_table:
             if hash_table[i] == 1:
-                return i
+                return i 
